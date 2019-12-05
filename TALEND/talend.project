@@ -43,6 +43,7 @@
       <relatedItems xmi:id="_fzDkbBdOEeqx87YvFVd6Fw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_fzDkbRdOEeqx87YvFVd6Fw" id="GetRandomPhoneNum" version="Latest" type="routine"/>
       <relatedItems xmi:id="_fzDkbhdOEeqx87YvFVd6Fw" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_6aOQQBdOEeqx87YvFVd6Fw" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <migrationTask xmi:id="_t3RsoB8bEeqaBv46O3j2wA" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_t3RsoR8bEeqaBv46O3j2wA" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
