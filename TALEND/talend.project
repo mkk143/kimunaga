@@ -24,6 +24,7 @@
       <relatedItems xmi:id="_Zawvvh8cEeqaBv46O3j2wA" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Zawvvx8cEeqaBv46O3j2wA" id="GetRandomPhoneNum" version="Latest" type="routine"/>
       <relatedItems xmi:id="_ZawvwB8cEeqaBv46O3j2wA" id="MDM" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_o6K54BdOEeqx87YvFVd6Fw" id="TalendStringUtil" version="Latest" type="routine"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_fzC9UBdOEeqx87YvFVd6Fw">
       <baseItem xmi:id="_fzC9URdOEeqx87YvFVd6Fw" id="_fxEAUBdOEeqx87YvFVd6Fw" version="0.1" type="job"/>
